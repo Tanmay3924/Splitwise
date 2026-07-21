@@ -50,23 +50,6 @@ A full-stack expense management application that simplifies tracking and settlin
 
 ---
 
-## 📂 Project Structure
-
-```text
-SplitWise/
-│
-├── client/          # React Frontend
-├── server/          # Express Backend
-├── models/          # MongoDB Schemas
-├── routes/          # API Routes
-├── controllers/     # Business Logic
-├── middleware/      # Authentication & Authorization
-├── utils/           # Helper Functions
-└── README.md
-```
-
----
-
 ## ⚙️ Installation
 
 ### Clone the Repository
