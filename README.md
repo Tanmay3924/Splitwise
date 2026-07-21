@@ -55,7 +55,7 @@ A full-stack expense management application that simplifies tracking and settlin
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/splitwise.git
+git clone https://github.com/tanmay3924/splitwise.git
 ```
 
 ### Navigate to the Project
